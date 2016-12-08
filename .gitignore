@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/sensibo/v14
+/sensibo/obj/Debug
+/sensibotest/obj/Debug
+/packages/Newtonsoft.Json.8.0.3
+/sensibo/bin/Debug
+/sensibotest/bin/Debug
